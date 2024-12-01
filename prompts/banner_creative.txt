@@ -1,0 +1,40 @@
+High-quality mobile ad banner design for {BRAND_NAME}
+STRICT Mobile Dimensions: {WIDTH}x{HEIGHT} PIXELS ONLY
+{ORIENTATION} mobile banner MANDATORY
+
+[Specific Composition Requirements]
+- Color Scheme: Background color specified as {PRIMARY_COLOR} (in HEX format) 
+   with accents in {ACCENT_COLOR} (in HEX format).
+- Central Visual: {PRODUCT_DESCRIPTION}
+- {AESTHETIC_TONE} aesthetic with {CONTRAST_LEVEL} contrast
+- Clean, professional design
+
+[Dimension Reinforcement]
+- Canvas must be PRECISELY {WIDTH}x{HEIGHT}
+- No scaling, no variation
+- Banner with EXACT {WIDTH}x{HEIGHT} pixel grid
+
+[Text Elements]
+- Brand Name: {BRAND_NAME} (in {BRAND_NAME_FONT_SIZE}px {FONT_STYLE})
+- Tagline: "{TAGLINE}" (in {TAGLINE_FONT_SIZE}px {FONT_STYLE})
+- Offer Text: "{OFFER_TEXT}"
+
+[Technical Constraints]
+- Exact {WIDTH}x{HEIGHT} pixel dimension
+- Mobile device banner format
+- Clear, crisp text rendering
+- Photorealistic {PRODUCT_TYPE} imagery
+
+[Technical Dimensional Control]
+- Generate image matching DIGITAL BANNER standard
+- {WIDTH}px WIDTH constraint
+- {HEIGHT}px HEIGHT constraint
+- NO alternative dimension acceptance
+
+Negative Prompt:
+- No spelling errors
+- No additional text
+- No blurry or distorted text
+- No incorrect brand name
+- No incorrect tagline
+- {NEGATIVE_PROMPT}

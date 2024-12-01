@@ -1,0 +1,92 @@
+{
+    "questions": [
+      {
+        "question_id": "ad_banner_loreal_01_q1",
+        "question": "Does the image meet the required mobile dimensions of 320x704 pixels?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The mobile ad banner must strictly follow the 320x704 pixel dimensions to fit the required size for mobile rendering.",
+        "question_type": "dimension_check"
+      },
+      {
+        "question": "Is the banner in portrait orientation?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The mobile banner must be in portrait orientation to comply with mobile device display standards.",
+        "question_type": "orientation_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q3",
+        "question": "Does the image have a soft pink background with gold accents?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The banner's background color must be soft pink with gold accents as specified in the design requirements.",
+        "question_type": "color_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q4",
+        "question": "Is the central visual an elegant beauty product with soft lighting?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The central visual should feature an elegant beauty product with soft lighting to match the sophisticated aesthetic.",
+        "question_type": "product_visual_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q5",
+        "question": "Does the image have a luxurious aesthetic with soft contrast?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The banner should exhibit a luxurious aesthetic with soft contrast to align with the glamorous design tone.",
+        "question_type": "aesthetic_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q6",
+        "question": "Does the banner display the brand name L'ORÉAL in 34px sans-serif font?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The brand name L'ORÉAL must be displayed in 34px sans-serif font as specified in the text element requirements.",
+        "question_type": "text_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q7",
+        "question": "Is the tagline 'Because You're Worth It' displayed in 14px sans-serif font?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The tagline must be displayed in 14px sans-serif font as specified in the design requirements.",
+        "question_type": "text_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q8",
+        "question": "Is the offer text '50% OFF New Collection' included in the banner?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The offer text '50% OFF New Collection' should be clearly visible in the banner as part of the design elements.",
+        "question_type": "text_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q9",
+        "question": "Is the image clear with crisp, non-blurry text rendering?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The image must have clear, crisp text rendering and should not be blurry or distorted.",
+        "question_type": "quality_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q10",
+        "question": "Is the image of high-end cosmetic photography quality?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The image should feature high-end cosmetic photography quality, fitting the luxurious and glamorous aesthetic of the design.",
+        "question_type": "product_visual_check"
+      },
+      {
+        "question_id": "ad_banner_loreal_01_q11",
+        "question": "Does the banner contain no spelling errors, additional text, or incorrect branding?",
+        "answer_type": "boolean",
+        "expected_answer": true,
+        "explanation": "The banner should be free of spelling errors, extra text, and branding mistakes to maintain professional quality.",
+        "question_type": "negative_check"
+      }
+    ]
+  }
+  

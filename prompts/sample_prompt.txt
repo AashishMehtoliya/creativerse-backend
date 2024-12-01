@@ -1,0 +1,40 @@
+High-quality mobile ad banner design for McDonald
+STRICT Mobile Dimensions: 480x800 PIXELS ONLY
+Landscape mobile banner MANDATORY
+
+[Specific Composition Requirements]
+- Color Scheme: Background color specified as #e3bf0d (in HEX format) 
+   with accents in #b20606 (in HEX format).
+- Central Visual: Burger, Fries , coke mouth watering
+- Delicious aesthetic with medium contrast
+- Clean, professional design
+
+[Dimension Reinforcement]
+- Canvas must be PRECISELY 480x800
+- No scaling, no variation
+- Banner with EXACT 480x800 pixel grid
+
+[Text Elements]
+- Brand Name: McDonald (in 14px sans-serif)
+- Tagline: "It is yummy" (in 14px sans-serif)
+- Offer Text: "50% OFF on Weekend"
+
+[Technical Constraints]
+- Exact 480x800 pixel dimension
+- Mobile device banner format
+- Clear, crisp text rendering
+- Photorealistic Food item imagery
+
+[Technical Dimensional Control]
+- Generate image matching DIGITAL BANNER standard
+- 480px WIDTH constraint
+- 800px HEIGHT constraint
+- NO alternative dimension acceptance
+
+Negative Prompt:
+- No spelling errors
+- No additional text
+- No blurry or distorted text
+- No incorrect brand name
+- No incorrect tagline
+- No Human
